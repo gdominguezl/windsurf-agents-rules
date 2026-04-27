@@ -1,1 +1,3 @@
-Add this rules to your .windsurf folder in your repository
+## Agent Rules for XP with AI
+
+- Add the entire `rules` folder to your .windsurf
